@@ -1,0 +1,13 @@
+{
+  "name": "datemath",
+  "version": "1.0.0",
+  "description": "Zero-dependency date math expression parser — add/subtract durations, business days, snap to boundaries, evaluate expressions like 'now + 3 business days - 1 week'.",
+  "main": "index.js",
+  "bin": { "datemath": "cli.js" },
+  "scripts": { "test": "node test.js" },
+  "keywords": ["date", "math", "calendar", "business-day", "duration", "snap", "parse"],
+  "license": "MIT",
+  "author": "sulthonzh",
+  "repository": { "type": "git", "url": "https://github.com/sulthonzh/datemath" },
+  "engines": { "node": ">=14" }
+}
