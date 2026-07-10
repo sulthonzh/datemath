@@ -36,5 +36,8 @@
   "homepage": "https://github.com/sulthonzh/datemath",
   "bugs": {
     "url": "https://github.com/sulthonzh/datemath/issues"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.31.0"
   }
 }
